@@ -29,4 +29,4 @@ This repository tracks the construction of a modern data warehouse with SQL Serv
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## Special thanks
-To @datawithbaraa for putting up amazing-quality educational content on Data Engineering.
+To @datawithbaraa for putting up amazing-quality educational content on Data Engineering. Without him and his content, this project wouldn't have been possible.
