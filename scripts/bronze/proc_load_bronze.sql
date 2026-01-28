@@ -1,6 +1,6 @@
 /*
 ============================================================
-Stored procedure: Load pBronze layer
+Stored procedure: Load Bronze layer
 ============================================================
 Script Purpose:
   This stored procedure loads data (CRM and ERP) into the bronze schema from csv files.
